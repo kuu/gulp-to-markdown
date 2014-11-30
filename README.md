@@ -1,7 +1,7 @@
 gulp-to-markdown
 ================
 
-Gulp wrapper for [to-markdown](https://github.com/domchristie/to-markdown) - HTML to Markdown converter.
+Gulp wrapper for [to-markdown](https://github.com/domchristie/to-markdown) - an HTML to Markdown converter created by Dom Christie.
 *Issues with the output should be reported on the [to-markdown issue tracker] (https://github.com/domchristie/to-markdown/issues).*
 
 ##Install
