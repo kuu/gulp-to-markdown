@@ -1,0 +1,33 @@
+{
+  "name": "gulp-to-markdown",
+  "version": "0.0.1",
+  "description": "Gulp wrapper for to-markdown - HTML to Markdown converter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuu/gulp-to-markdown"
+  },
+  "keywords": [
+    "gulpplugin",
+    "markdown",
+    "html"
+  ],
+  "author": "Kuu Miyazaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kuu/gulp-to-markdown/issues"
+  },
+  "homepage": "https://github.com/kuu/gulp-to-markdown",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "chai": "^1.10.0"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.1",
+    "through2": "^0.6.3",
+    "to-markdown": "0.0.2"
+  }
+}
