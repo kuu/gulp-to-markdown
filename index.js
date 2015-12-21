@@ -1,7 +1,7 @@
 'use strict';
 var gutil = require('gulp-util'),
     through = require('through2'),
-    toMarkdown = require('to-markdown').toMarkdown;
+    toMarkdown = require('to-markdown');
 
 module.exports = function () {
   return through.obj(function (file, enc, cb) {

@@ -28,6 +28,6 @@
   "dependencies": {
     "gulp-util": "^3.0.1",
     "through2": "^0.6.3",
-    "to-markdown": "0.0.2"
+    "to-markdown": "^2.0.1"
   }
 }
