@@ -1,6 +1,6 @@
 {
   "name": "gulp-to-markdown",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Gulp wrapper for to-markdown - an HTML to Markdown converter created by Dom Christie.",
   "main": "index.js",
   "scripts": {
